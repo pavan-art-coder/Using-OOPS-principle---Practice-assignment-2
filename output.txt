@@ -1,0 +1,7 @@
+Pen added to inventory.
+Notebook added to inventory.
+30 units added to Pen. Current stock: 30
+10 units sold from Pen. Remaining stock: 20
+20 units sold from Notebook. Remaining stock: 30
+Stock for Pen: 20
+Stock for Notebook: 30
